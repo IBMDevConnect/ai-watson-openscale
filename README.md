@@ -15,3 +15,7 @@
 [Monitor Sagemaker machine learning with Watson OpenScale](https://developer.ibm.com/patterns/monitor-amazon-sagemaker-machine-learning-models-with-ai-openscale/)
 
 [Monitor custom machine learning engine with Watson OpenScale](https://developer.ibm.com/patterns/monitor-custom-machine-learning-engine-with-ai-openscale/)
+
+### AI Fairness 360
+
+[Ensure loan fairness](https://developer.ibm.com/patterns/ensuring-fairness-when-processing-loan-applications/)
