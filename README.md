@@ -19,3 +19,7 @@
 ### AI Fairness 360
 
 [Ensure loan fairness](https://developer.ibm.com/patterns/ensuring-fairness-when-processing-loan-applications/)
+
+## Watson OpenScale for ICP for Data
+
+[Watson OpenScale for ICP for Data Installation](https://console.bluemix.net/docs/services/ai-openscale-icp/install-icp.html#install)
